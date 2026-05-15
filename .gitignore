@@ -1,0 +1,12 @@
+venv
+.idea
+.vscode
+
+# Ignore environment variable files
+.env
+*.env
+/.env
+hello_world/.env
+rag/.env
+
+rag/venv
